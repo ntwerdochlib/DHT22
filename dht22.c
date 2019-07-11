@@ -29,7 +29,7 @@
 #include <linux/sched.h>
 #include <linux/slab.h>
 #include <asm/current.h>
-#include <asm/uaccess.h>
+#include <linux/uaccess.h>
 #define _INCLUDE_DHT22_DECL
 #include "dht22.h"
 
